@@ -1,0 +1,7 @@
+.transition-red{
+	color: white;
+}
+.transition-red:hover{
+	transition: 1s;
+	color: red;
+}
